@@ -1,4 +1,4 @@
-package algorithms.recursion.search;
+package algorithms.recursion.linear.search;
 
 public class RecursiveLinearSearch {
     public static void main(String[] args) {
